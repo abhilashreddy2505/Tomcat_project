@@ -14,5 +14,5 @@ Building a tomcat deployable java based web application and integrating it with 
 
 ## Link
 
-- [1mg-clone Video Demo](https://www.loom.com/share/c671c5fffa5e496aa9bacce261aae644/)
+- [Tomcat Application](https://www.loom.com/share/c671c5fffa5e496aa9bacce261aae644/)
 
