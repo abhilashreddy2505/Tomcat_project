@@ -16,6 +16,6 @@ Building a tomcat deployable java based web application and integrating it with 
 
 - [Tomcat Application](https://youtu.be/Qhx4EJPC0c4)
 
-##Deployment URL
+## Deployment URL
 
-- (http://20.204.125.81:8080/myapp/)
+- [Application](http://20.204.125.81:8080/myapp/)
